@@ -32,10 +32,9 @@ The website contains a homepage that links to three Indian street food recipes.
 odin-recipes/
 ├── index.html
 ├── README.md
-└── recipes/
-    ├── panipuri.html
-    ├── pavbhaji.html
-    └── vadapav.html
+├── panipuri.html
+├── pavbhaji.html
+└── vadapav.html
 ```
 
 ## How to Run the Project
